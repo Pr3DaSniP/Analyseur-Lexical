@@ -9,13 +9,13 @@ Ce script est un analyseur lexical basique qui prend en entrée un fichier sourc
 ## Utilisation
 
 ```bash
-./analyseur-lexical.sh <fichier_source>
+bash analyseur-lexical.sh <fichier_source>
 ```
 
 ## Exemple
 
 ```bash
-./analyseur-lexical.sh projet.java
+bash analyseur-lexical.sh projet.java
 ```
 
 ![Result](AnalyserLexical.PNG)
